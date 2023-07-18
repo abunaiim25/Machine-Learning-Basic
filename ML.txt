@@ -1,0 +1,7 @@
+After Install Anaconda:
+
+Anaconda Powershell Promt ->
+pip install sklearn / pip install -U scikit-learn
+pip install pandas
+pip install matplotlib
+pip install numpy
